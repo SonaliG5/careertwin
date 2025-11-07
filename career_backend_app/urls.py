@@ -1,7 +1,9 @@
 from django.urls import path
-from . import views
+from .views import Home,CareerRecommendationAPI, RegisterUser, LoginUser
 
 urlpatterns = [
-    path('userprofile/', views.UserProfileAPI.as_view(), name='user_profile_api'),
-    path('recommendation/', views.CareerRecommendationAPI.as_view(), name='career_recommendation_api'),
+     path('', Home.as_view(), name='home'),
+    path('predict/', CareerRecommendationAPI.as_view(), name='predict'),
+    path('register/', RegisterUser.as_view(), name='register'),
+    path('login/', LoginUser.as_view(), name='login'),
 ]

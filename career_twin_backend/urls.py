@@ -18,6 +18,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
+    path('', include('career_backend_app.urls')),   # 👈 add this line here
     path('admin/', admin.site.urls),
     path('api/', include('career_backend_app.urls')),
 ]
