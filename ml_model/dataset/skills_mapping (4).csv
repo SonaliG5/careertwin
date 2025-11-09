@@ -1,0 +1,49 @@
+Career,Required_Skill,Importance_Level
+Software Engineer,Python,5
+Software Engineer,Communication,5
+Software Engineer,Azure,3
+Software Engineer,Docker,4
+Data Scientist,SQL,3
+Data Scientist,Communication,5
+Data Scientist,React,5
+Data Scientist,Python,3
+Machine Learning Engineer,HTML/CSS,3
+Machine Learning Engineer,Azure,5
+Machine Learning Engineer,JavaScript,4
+Machine Learning Engineer,React,3
+DevOps Engineer,Cybersecurity,4
+DevOps Engineer,React,5
+DevOps Engineer,Figma,3
+DevOps Engineer,Kubernetes,3
+Cybersecurity Analyst,TensorFlow,5
+Cybersecurity Analyst,React,3
+Cybersecurity Analyst,Azure,3
+Cybersecurity Analyst,Java,4
+Cloud Architect,AWS,3
+Cloud Architect,React,4
+Cloud Architect,Problem Solving,3
+Cloud Architect,Java,3
+Product Manager,JavaScript,5
+Product Manager,Cybersecurity,5
+Product Manager,Java,3
+Product Manager,UI/UX Design,4
+UI/UX Designer,Cybersecurity,5
+UI/UX Designer,Communication,5
+UI/UX Designer,TensorFlow,5
+UI/UX Designer,Azure,3
+Business Analyst,C++,4
+Business Analyst,C++,4
+Business Analyst,Kubernetes,3
+Business Analyst,JavaScript,5
+Blockchain Developer,Node.js,4
+Blockchain Developer,AWS,4
+Blockchain Developer,Node.js,3
+Blockchain Developer,Node.js,4
+Full Stack Developer,React,4
+Full Stack Developer,HTML/CSS,5
+Full Stack Developer,Communication,5
+Full Stack Developer,Python,5
+Mobile App Developer,AWS,4
+Mobile App Developer,Node.js,5
+Mobile App Developer,Data Visualization,3
+Mobile App Developer,Communication,5
